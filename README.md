@@ -23,15 +23,16 @@ Before you begin, ensure you have the following prerequisites installed:
 
 ### Installation <a name="installation"></a>
 
+
 1. Clone the current repository:
    
    ```bash
-   git clone https://github.com/Kaizoku01/Flutter_Cart-frontend
+   git clone https://github.com/Kaizoku01/Flutter_Cart-frontend.git
 
 2. Clone the backend repository
 
    ```bash
-   git clone https://github.com/Kaizoku01/Flutter_Cart-backend
+   git clone https://github.com/Kaizoku01/Flutter_Cart-backend.git
    
 ### Configuration <a name="configuration"></a>
 
