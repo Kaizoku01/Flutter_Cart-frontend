@@ -8,6 +8,7 @@ FlutterCart is an e-commerce application with a Flutter frontend and a Node.js b
 - [Getting Started](#getting-started)
   - [Installation](#installation)
   - [Configuration](#configuration)
+- [Features](#features)
 - [Images](#images)
 - [Contributing](#contributing)
 
@@ -45,7 +46,14 @@ Before you begin, ensure you have the following prerequisites installed:
 
 The App will send request on the above url.
 
-### Images <a name="images"></a>
+
+## Features <a name="features"></a>
+- BLoC (Business Logic Component) state management.
+- Razorpay integration for secure and seamless payment processing.
+- Integration with the FlutterCart backend for fetching and displaying product data.
+
+
+## Images <a name="images"></a>
 <img src="https://github.com/Kaizoku01/Flutter_Cart-frontend/assets/90988390/ec126c54-e6ad-4c94-a2fb-6615a1b76d8f" alt="login_screen" width="200">
 <img src="https://github.com/Kaizoku01/Flutter_Cart-frontend/assets/90988390/bb5f3478-9573-4fbc-b252-075e97c78951" alt="home_screen" width="200">
 <img src="https://github.com/Kaizoku01/Flutter_Cart-frontend/assets/90988390/8dc548c2-9a9e-4a06-9282-a7ae4500444b" alt="product" width="200">
